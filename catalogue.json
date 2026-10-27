@@ -76,10 +76,10 @@
         "grafana",
         "metrics"
       ],
-      "version": "0.2.0",
-      "source_revision": "7c98e1e9ff3449b8a54fb7201288cd79b11e63cc",
-      "wheel_url": "https://github.com/rkoberholtz/openhop-influxdb-plugin/releases/download/v0.2.0/openhop_influxdb_plugin-0.2.0-py3-none-any.whl",
-      "sha256": "bfb669b9a461e77f0df534f549c508cc999dc866f6cbc784bb717b8917ffbd39"
+      "version": "0.2.1",
+      "source_revision": "5bad63525fb5365cf16b263faec67b35c2d0827e",
+      "wheel_url": "https://github.com/rkoberholtz/openhop-influxdb-plugin/releases/download/v0.2.1/openhop_influxdb_plugin-0.2.1-py3-none-any.whl",
+      "sha256": "ee490187a69648fa4f75ab18cdd6f55140456e1cc2642d8e592caf5992acd0e6"
     }
   ]
 }
